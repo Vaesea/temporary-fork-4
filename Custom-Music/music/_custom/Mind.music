@@ -1,5 +1,0 @@
-(supertux-music
-  (file "Mind.ogg")
-  (loop-begin 19.369)
-  (loop-at    177.778)
-)

@@ -1,5 +1,0 @@
-(supertux-music
-  (file "The_Glow_of_All_Things.ogg")
-  (loop-begin 37.321)
-  (loop-at    209.709)
-)

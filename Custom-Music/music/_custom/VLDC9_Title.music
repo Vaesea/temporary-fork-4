@@ -1,5 +1,0 @@
-(supertux-music
-  (file "VLDC9_Title.ogg")
-  (loop-begin 26.800)
-  (loop-at    151.917)
-)

@@ -1,5 +1,0 @@
-(supertux-music
-  (file "Starbound_Forest.ogg")
-  (loop-begin 11.762)
-  (loop-at    93.193)
-)

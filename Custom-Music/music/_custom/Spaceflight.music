@@ -1,5 +1,0 @@
-(supertux-music
-  (file "Spaceflight.ogg")
-  (loop-begin 22.359)
-  (loop-at    178.635)
-)
